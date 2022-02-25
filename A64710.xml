@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Unfortunate Quaker an account of the strange and wonderful manner how one Mrs. Cockbid, one of those people called Quakers, the wife of an eminent glover, at the Hand and Glove in Low-Holborn was found miserably scorch'd and parch'd to death ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64710</idno>
+            <idno type="STC">Wing U58A</idno>
+            <idno type="STC">ESTC R25709</idno>
+            <idno type="EEBO-CITATION">09086849</idno>
+            <idno type="OCLC">ocm 09086849</idno>
+            <idno type="VID">42400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42400)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:72)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Unfortunate Quaker an account of the strange and wonderful manner how one Mrs. Cockbid, one of those people called Quakers, the wife of an eminent glover, at the Hand and Glove in Low-Holborn was found miserably scorch'd and parch'd to death ...</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-04</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:42400:1" rendition="simple:additions"/>
+            <head>The Vnfortunate Quaker.</head>
+            <head type="sub">An ACCOUNT of the Strange and wonderful Manner How one Mrs. COCKBID, One of thoſe People called <hi>Q<g ref="char:V">Ʋ</g>AKERS,</hi>
+            </head>
+            <argument>
+               <p>The Wife of an eminent Glover, at the <hi>Hand and Glove</hi> in <hi>Low-Holborn,</hi> was found <hi>miſerably Scorch'd</hi> and
+<hi>parch'd</hi> to <hi>DEATH,</hi> her <hi>Night-rail,</hi> the
+<hi>Handkerchief</hi> about her Neck and <hi>Head-cloaths</hi> being
+<hi>intirely B<g ref="char:V">Ʋ</g>RNT,</hi> tho' none of the <hi>Woollen</hi> in the leaſt touched, after ſhe had been left not much above a Quarter of an Hour in a Room belonging to a Waſher-woman, whom ſhe came to viſit, lodging at the Chandlers ſhop over-againſt <hi>Ely-houſe,</hi> altho' there was ſcarce any Fire in the Grate, with this further heightening Circumſtance of Won<g ref="char:EOLhyphen"/>der,
+<hi>viz</hi> The Child that was left with her being found Crying on its
+<hi>Back</hi> in the middle of the Room, <hi>&amp;c.</hi>
+               </p>
+            </argument>
+            <p>
+               <hi>AMongſt all the Inſtances of Divine Judgment, that Heaven has been pleas'd to execute in this ſinful Age, either as Puniſhments to particular Perſons, or Warnings to others; none hath been more amazing, ſtrange and terrible, than the enſuing Relation I am about to make, all Circumſtances duly weigh'd and conſider'd: And, however Fame augments or ſubſtracts to or from Accidents of this Nature, according to Popular Fancy, yet I ſhall en<g ref="char:EOLhyphen"/>deavour (on the beſt Credit) only to relate plain</hi> Matter of Fact, <hi>and ſo leave every Perſon to make ſuch Comments thereon as his own Reaſon ſhall beſt guide and direct him.</hi>
+            </p>
+            <p>At the Sign of the <hi>Hand and Glove,</hi> in
+<hi>Lower-Holborn,</hi> lives one <hi>Cockbid,</hi> a Perſon of <hi>good Fame</hi> and <hi>Reputation,</hi> by Profeſſion a Glover, and by Religion
+<hi>(ſi fas ſit ita loqui)</hi> one in Commu<g ref="char:EOLhyphen"/>nion with the People called
+<hi>Quakers.</hi> This unhappy <hi>Gentleman</hi>'s Wife, on <hi>Friday</hi> laſt, the 12th of this inſtant <hi>November,</hi> went to viſit an Acquaintance and Cuſtomer of theirs, one Mrs. <hi>Iſlip</hi> a Lodger at the Chandlers Shop, oppoſite to <hi>Ely-houſe,</hi> and one who follow'd the Occupation of waſhing Gloves. This <hi>Quaker-woman</hi> the Glover's Wife, as aforeſaid, had not long ſate (as I am reputably inform'd, in common Chat about the Affairs of the World with this Waſher of Gloves, e're this ſaid Waſher had occaſion to go to a Friend's Houſe in
+<hi>Field-lane:</hi> Her Buſineſs requiring no long tarriance, ſhe left the Quaker with her Child in the Room, ſitting by a little Fire in a very ſmall Grate. Half an Hour was the very utmoſt of her ab<g ref="char:EOLhyphen"/>ſence<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet, when ſhe returnd, to her inexpreſſible trouble, fright and amaze, ſhe found the unhappy Quaker miſerably ſcorch'd to Death, with theſe very ſtrange and aſtoniſhing Cir<g ref="char:EOLhyphen"/>cumſtances:</p>
+            <p>Her <hi>Face</hi> and <hi>Throat</hi> dreadfully ſcorch'd, or parch'd; her <hi>Night-rail, Handkerchief,</hi> and <hi>Head-cloaths</hi> intirely burnt; but the reſt of her <hi>Cloaths,</hi> that is her
+<hi>Woollens,</hi> without the leaſt ſymp<g ref="char:EOLhyphen"/>tom of Fire diſcernable; and all this without any Fire in the Room morally poſſible to effect it, altho ſuch a dead Sleep or Drowſineſs had ſeiz d her, that ſhe had faln into it: And what infinitely more added to the Wonder was, that the Child, left with her, was found thrown on it's Back
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the midſt of the Room, whoſe crying after the Mother, who was come into her Landlady the Chandler's Shop, haſten'd her up.</p>
+            <p>It ſeems <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o me indeed a very ſtrange Accident, that only her Nightrail, the Handkerchief about her Neck, and her Head-cloaths ſhould be burn'd, without prejudice to her Woollens, ſince Fire,
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke Death, is of that devouring Quality, that it ſpares nothing, but equally where its furious F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes have got the aſcendant, conſumes Ermins and Vermin, Linnen and Wool<g ref="char:EOLhyphen"/>len, Silks an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Satin, as well as Rags and
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atters.</p>
+            <p>Various a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Conjectures of People on this unhappy Occaſion, eſpecially ſince the Subject was one of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Pure Fold, thoſe <hi>
+                  <g ref="char:V">Ʋ</g>nſpotted Lambs,</hi> the <hi>Quakers:</hi> But, indeed, tho ſome would inſinuate, <hi>Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Woman had taken too large a Dram of that burning Liquor call d</hi> Brandy, <hi>and con<g ref="char:EOLhyphen"/>ſequently, in Judgment to which, that this more terrible Fire had conſum'd her,</hi> yet, upon the ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icteſt Enquiry, we
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd her no ways addicted to ſuch Beaſtial Exceſs. And I could wiſh all the <hi>Pious Siſters of that Communion</hi> had no greater <hi>Blots</hi> in their Scutcheon than ſhe had.</p>
+            <p>To be brie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I ſhall only remind ſuch Conjecturers of what Chriſt told his Diſciples in the 13th of <hi>Luke.</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen ſome told him of the
+<hi>Galileans,</hi> whoſe Blood <hi>Pilate</hi> had mingled with their Sacrifice, <hi>Supp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ye</hi> (quoth he) <hi>that thoſe Galileans, becauſe they ſuffer'd ſuch things, were Sinners above all the Gali<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ans? I tell you nay; but, except ye repent, ye ſhall all likewiſe periſh Or thoſe eigh<g ref="char:EOLhyphen"/>teen upon whom
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Tower of Siloam fell, and ſlew them, think you they were ſinners above all that dwelt in Jeruſalem? I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you nay.</hi> I heartily deſire all Chriſtians would make a due Improvement of God's Judgments and that thoſe of <hi>this Sect</hi> would more particularly take notice of this; for as I am far from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ading the Memory of the deceaſed with unjuſt Imputations, ſo I am far from aſſerting the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnocence of <hi>that Tribe,</hi> well knowing the <hi>Puritanical Garb</hi> and
+<hi>Demure Look</hi> amongſt them, to
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e too often but the
+<hi>Cloak of vileſt Iniquities.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed by <hi>J. VV:</hi> near
+<hi>Fleet-ſtreet,</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
